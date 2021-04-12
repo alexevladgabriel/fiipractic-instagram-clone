@@ -1,0 +1,31 @@
+"filename", "language", "JavaScript", "CSS", "XML", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\README.md", "Markdown", 0, 0, 0, 0, 38, 0, 0, 33, 71
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\craco.config.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\firebase.json", "JSON", 0, 0, 0, 4, 0, 0, 9, 0, 13
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\jsconfig.json", "JSON", 0, 0, 0, 7, 0, 0, 0, 1, 8
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\package.json", "JSON", 0, 0, 0, 55, 0, 0, 0, 1, 56
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\public\index.html", "HTML", 0, 0, 0, 0, 0, 20, 23, 1, 44
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\public\manifest.json", "JSON", 0, 0, 0, 25, 0, 0, 0, 1, 26
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\css\GlobalStyles.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 3, 22
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\facebook-square.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\instagram-wordmark.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\navbar\home.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\navbar\home_active.svg", "XML", 0, 0, 10, 0, 0, 0, 0, 0, 10
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\wordmark.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 1
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\App.js", "JavaScript", 34, 0, 0, 0, 0, 0, 4, 6, 44
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\Home.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\auth\Login.js", "JavaScript", 190, 0, 0, 0, 0, 0, 18, 28, 236
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\auth\Register.js", "JavaScript", 107, 0, 0, 0, 0, 0, 5, 15, 127
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Header.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\Dropdown.js", "JavaScript", 149, 0, 0, 0, 0, 0, 4, 14, 167
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\Icons.js", "JavaScript", 105, 0, 0, 0, 0, 0, 0, 5, 110
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\index.js", "JavaScript", 61, 0, 0, 0, 0, 0, 5, 10, 76
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\index.css", "CSS", 0, 4, 0, 0, 0, 0, 1, 1, 6
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\index.js", "JavaScript", 16, 0, 0, 0, 0, 0, 4, 5, 25
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\layouts\AuthLayout.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\routes\AuthRoute.js", "JavaScript", 14, 0, 0, 0, 0, 0, 2, 3, 19
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\store\auth.js", "JavaScript", 13, 0, 0, 0, 0, 0, 1, 2, 16
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\store\index.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 4, 19
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\utils\firebase.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 5, 25
+"c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\tailwind.config.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 1, 21
+"Total", "-", 800, 4, 14, 91, 38, 20, 76, 148, 1191

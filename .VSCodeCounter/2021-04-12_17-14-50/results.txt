@@ -1,0 +1,98 @@
+Date : 2021-04-12 17:14:50
+Directory : c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21
+Total : 48 files,  3004 codes, 294 comments, 378 blanks, all 3676 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         31 |      2,779 |        261 |        370 |      3,410 |
+| XML        |         10 |         97 |          0 |          0 |         97 |
+| JSON       |          4 |         95 |          9 |          3 |        107 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
+| Markdown   |          1 |          9 |          0 |          3 |         12 |
+| CSS        |          1 |          4 |          1 |          1 |          6 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                             |         48 |      3,004 |        294 |        378 |      3,676 |
+| .idea                                                                                                                                         |          5 |         83 |          0 |          0 |         83 |
+| public                                                                                                                                        |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                                                           |         35 |      2,768 |        262 |        369 |      3,399 |
+| src\assets                                                                                                                                    |          6 |         33 |          0 |          3 |         36 |
+| src\assets\css                                                                                                                                |          1 |         19 |          0 |          3 |         22 |
+| src\assets\images                                                                                                                             |          5 |         14 |          0 |          0 |         14 |
+| src\assets\images\navbar                                                                                                                      |          2 |         11 |          0 |          0 |         11 |
+| src\components                                                                                                                                |         18 |      2,577 |        249 |        331 |      3,157 |
+| src\components\auth                                                                                                                           |          2 |        319 |         14 |         43 |        376 |
+| src\components\elements                                                                                                                       |          7 |        958 |         60 |        114 |      1,132 |
+| src\components\elements\Avatar                                                                                                                |          1 |        157 |         29 |         20 |        206 |
+| src\components\elements\Navbar                                                                                                                |          3 |        347 |         12 |         37 |        396 |
+| src\components\elements\Post                                                                                                                  |          2 |        445 |         19 |         55 |        519 |
+| src\components\pages                                                                                                                          |          8 |      1,237 |        169 |        162 |      1,568 |
+| src\components\pages\Accounts                                                                                                                 |          3 |        581 |         74 |         48 |        703 |
+| src\components\pages\Accounts\Components                                                                                                      |          2 |        497 |         71 |         38 |        606 |
+| src\components\pages\Posts                                                                                                                    |          2 |        242 |         19 |         37 |        298 |
+| src\layouts                                                                                                                                   |          1 |         10 |          0 |          3 |         13 |
+| src\routes                                                                                                                                    |          3 |         46 |          7 |         12 |         65 |
+| src\store                                                                                                                                     |          3 |         48 |          1 |          7 |         56 |
+| src\utils                                                                                                                                     |          2 |         34 |          0 |          7 |         41 |
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                                      | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\.idea\instagram-clone-v21.iml                              | XML        |         12 |          0 |          0 |         12 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\.idea\misc.xml                                             | XML        |          6 |          0 |          0 |          6 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\.idea\modules.xml                                          | XML        |          8 |          0 |          0 |          8 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\.idea\vcs.xml                                              | XML        |          6 |          0 |          0 |          6 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\.idea\workspace.xml                                        | XML        |         51 |          0 |          0 |         51 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\README.md                                                  | Markdown   |          9 |          0 |          3 |         12 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\craco.config.js                                            | JavaScript |          7 |          0 |          1 |          8 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\firebase.json                                              | JSON       |          4 |          9 |          0 |         13 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\jsconfig.json                                              | JSON       |          7 |          0 |          1 |          8 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\package.json                                               | JSON       |         59 |          0 |          1 |         60 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\public\index.html                                          | HTML       |         20 |         23 |          1 |         44 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\public\manifest.json                                       | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\css\GlobalStyles.js                             | JavaScript |         19 |          0 |          3 |         22 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\facebook-square.svg                      | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\instagram-wordmark.svg                   | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\navbar\home.svg                          | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\navbar\home_active.svg                   | XML        |         10 |          0 |          0 |         10 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\assets\images\wordmark.svg                             | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\App.js                                      | JavaScript |         63 |          6 |         12 |         81 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\auth\Login.js                               | JavaScript |        203 |          9 |         28 |        240 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\auth\Register.js                            | JavaScript |        116 |          5 |         15 |        136 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Avatar\index.js                    | JavaScript |        157 |         29 |         20 |        206 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Header.js                          | JavaScript |          9 |          0 |          2 |         11 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\Dropdown.js                 | JavaScript |        183 |          7 |         22 |        212 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\Icons.js                    | JavaScript |        105 |          0 |          5 |        110 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Navbar\index.js                    | JavaScript |         59 |          5 |         10 |         74 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Post\icons.js                      | JavaScript |         91 |          0 |          8 |         99 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\elements\Post\index.js                      | JavaScript |        354 |         19 |         47 |        420 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Accounts\Components\ChangePassword.js | JavaScript |        167 |          6 |         12 |        185 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Accounts\Components\EditAccount.js    | JavaScript |        330 |         65 |         26 |        421 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Accounts\index.js                     | JavaScript |         84 |          3 |         10 |         97 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Home.js                               | JavaScript |         64 |         49 |         12 |        125 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\NotFound.js                           | JavaScript |         33 |          0 |          8 |         41 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Posts\CreatePost.js                   | JavaScript |        183 |         16 |         22 |        221 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Posts\OldCreatePost.js                | JavaScript |         59 |          3 |         15 |         77 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\components\pages\Profile.js                            | JavaScript |        317 |         27 |         57 |        401 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\index.css                                              | CSS        |          4 |          1 |          1 |          6 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\index.js                                               | JavaScript |         16 |          4 |          5 |         25 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\layouts\AuthLayout.js                                  | JavaScript |         10 |          0 |          3 |         13 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\routes\AccountsRoutes.js                               | JavaScript |         15 |          2 |          4 |         21 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\routes\AuthRoute.js                                    | JavaScript |         21 |          3 |          4 |         28 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\routes\CreateRoutes.js                                 | JavaScript |         10 |          2 |          4 |         16 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\store\auth.js                                          | JavaScript |         23 |          1 |          2 |         26 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\store\index.js                                         | JavaScript |         17 |          0 |          4 |         21 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\store\storage.js                                       | JavaScript |          8 |          0 |          1 |          9 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\utils\firebase.js                                      | JavaScript |         20 |          0 |          5 |         25 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\src\utils\yup-phone.js                                     | JavaScript |         14 |          0 |          2 |         16 |
+| c:\Users\mex_a\Desktop\Full-Stack\1. Frontend\React\javascript\instagram-clone-v21\tailwind.config.js                                         | JavaScript |         22 |          0 |          1 |         23 |
+| Total                                                                                                                                         |            |      3,004 |        294 |        378 |      3,676 |
++-----------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
