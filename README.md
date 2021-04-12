@@ -1,5 +1,5 @@
 Firebase Deploy URL: https://instagram-fiipractic.web.app/
-InstaClone
+[InstaClone]
 
 - React
 - Firebase
